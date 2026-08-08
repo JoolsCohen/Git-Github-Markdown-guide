@@ -26,6 +26,8 @@
 2. При необходимости скачайте PDF-версию.
 3. Используйте скриншоты как иллюстрации к практическим шагам.
 ---
-**Author:** JoolsCohen  
+**Author:** Julia Cohen  
 *Technical Writer & Documentation Specialist*
+
+
 [🐙 GitHub](https://github.com/JoolsCohen)  |[💬 Telegram](https://t.me/sinichka_nevrostenichka)
