@@ -25,6 +25,7 @@
 1. Откройте Markdown-версию руководства в GitHub или VS Code.
 2. При необходимости скачайте PDF-версию.
 3. Используйте скриншоты как иллюстрации к практическим шагам.
-
-## Автор
-Юлия Минглиева
+---
+**Author:** JoolsCohen  
+*Technical Writer & Documentation Specialist*
+[🐙 GitHub](https://github.com/JoolsCohen)  |[💬 Telegram](https://t.me/sinichka_nevrostenichka)
